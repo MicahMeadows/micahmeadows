@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=micahmeadows&show_icons=true&locale=en&layout=compact" alt="micahmeadows" /></p>
 
-[![Micah's GitHub stats](https://github-readme-stats.vercel.app/api?username=micahmeadows)]
+![Micah's GitHub stats](https://github-readme-stats.vercel.app/api?username=micahmeadows)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=micahmeadows&" alt="micahmeadows" /></p>
 
